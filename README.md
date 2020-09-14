@@ -34,4 +34,4 @@
     5. удалить пользователя: DELETE запрос на http://localhost:5000/users/{id}, где id - id существующего пользователя
 
 ### Пример работы
-!(Пример работы)[sources/img/example.png]
+![Пример работы](sources/img/example.png)
